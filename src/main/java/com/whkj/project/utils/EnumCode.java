@@ -3,9 +3,6 @@ package com.whkj.project.utils;
 
 /**
  * @desc: 状态码
- *
- * @author: jwy
- * @date: 2017/12/15
  */
 public enum EnumCode {
     /**
