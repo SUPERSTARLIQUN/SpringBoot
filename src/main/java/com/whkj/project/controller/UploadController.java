@@ -20,6 +20,7 @@ import java.util.Random;
 @RequestMapping("/resource")
 public class UploadController {
 
+
     @Value(value = "${pic.resource}")
     private String path;
 
