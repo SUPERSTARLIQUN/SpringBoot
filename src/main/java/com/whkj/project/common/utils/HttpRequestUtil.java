@@ -1,4 +1,4 @@
-package com.whkj.project.utils;
+package com.whkj.project.common.utils;
 
 import org.apache.http.client.config.RequestConfig;
 import org.apache.http.client.methods.CloseableHttpResponse;

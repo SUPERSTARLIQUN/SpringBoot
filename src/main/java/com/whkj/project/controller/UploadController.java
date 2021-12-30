@@ -1,14 +1,13 @@
 package com.whkj.project.controller;
 
-import com.whkj.project.utils.EnumCode;
-import com.whkj.project.utils.RestResult;
+import com.whkj.project.common.utils.EnumCode;
+import com.whkj.project.common.utils.RestResult;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
 
 import java.io.File;
 import java.io.IOException;
-import java.net.URISyntaxException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Random;

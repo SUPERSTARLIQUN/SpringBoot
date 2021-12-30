@@ -1,4 +1,4 @@
-package com.whkj.project.utils;        // 方法1：length为产生的位数
+package com.whkj.project.common.utils;        // 方法1：length为产生的位数
 
 import java.util.Random;
 

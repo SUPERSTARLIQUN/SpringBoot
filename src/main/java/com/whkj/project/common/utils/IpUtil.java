@@ -1,4 +1,4 @@
-package com.whkj.project.utils;
+package com.whkj.project.common.utils;
 
 import javax.servlet.http.HttpServletRequest;
 

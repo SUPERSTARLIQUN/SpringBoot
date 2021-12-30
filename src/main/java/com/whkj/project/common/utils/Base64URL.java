@@ -1,4 +1,4 @@
-package com.whkj.project.utils;
+package com.whkj.project.common.utils;
 
 // 使用旧版本 base64 编解码实现增强兼容性
 import sun.misc.BASE64Encoder;
